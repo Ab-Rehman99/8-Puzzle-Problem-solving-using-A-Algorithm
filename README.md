@@ -1,4 +1,4 @@
-# 8-Puzzle-Problem-solving-using-A-Algorithm
+# 8-Puzzle-Problem-solving-using-A-star-Algorithm
 
 2 classes are used : Game and State
 
